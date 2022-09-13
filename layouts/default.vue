@@ -145,8 +145,10 @@
         </v-card-text>
 
         <v-card-text class="black--text pt-0">
-          Evaristo & Sons Sea Transport Corporation is a domestic shipping
-          company operating cargo and passenger ships
+          Evaristo & Sons Sea Transport Corporation is a domestic shipping company operating cargo and passenger ships in Surigao Del Norte and Dinagat Islands. 
+          Surigao City is popularly known as the City of Island Adventures and is considered a haven of leisure and adventure because it has 17 panoramic islands with long stretches of pristine white sand beaches, mystical caves, vast mangrove forest and under water sceneries.
+          Siargao is mainly responsible for introducing surfing to the country. Apart from surfing, Siargao is also open to other activities such as cave explorations and rock climbing.
+          Dinagat Islands is famous or known for caves, resorts, and beaches.
         </v-card-text>
 
         <v-divider></v-divider>
