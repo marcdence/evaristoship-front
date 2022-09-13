@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - MAHARLIKA',
-    title: 'MAHARLIKA',
+    titleTemplate: '%s - Evaristo & Sons Sea Transport Corporation',
+    title: 'Evaristo & Sons Sea Transport Corporation',
     htmlAttrs: {
       lang: 'en'
     },
@@ -77,7 +77,7 @@ export default {
     '@nuxtjs/auth',
   ],
   axios: {
-    baseURL: process.env.BASE_URL_DEV
+    baseURL:  process.env.BASE_URL_DEV
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
