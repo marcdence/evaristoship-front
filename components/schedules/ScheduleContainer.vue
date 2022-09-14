@@ -225,7 +225,7 @@
                   <b>Return</b>
                 </div>
                 <div class="pa-5" v-if="book.return_price != 0">
-                  <div class="text-h6 pb-5"><b>FastCat M19</b></div>
+                  <div class="text-h6 pb-5"><b>M/V Nathan/Sean Ferry Fastcraft</b></div>
                   <div class="text-h6">
                     {{ $route.query.to }} - {{ $route.query.from }}
                   </div>
@@ -399,7 +399,7 @@
                   <b>Departure</b>
                 </div>
                 <div class="pa-5" v-if="book.departure_price != 0">
-                  <div class="text-h6 pb-5"><b>FastCat M19</b></div>
+                  <div class="text-h6 pb-5"><b>M/V Nathan/Sean Ferry Fastcraft</b></div>
                   <div class="text-h6">
                     {{ $route.query.from }} - {{ $route.query.to }}
                   </div>
@@ -454,7 +454,7 @@
                   <b>Return</b>
                 </div>
                 <div class="pa-5" v-if="book.return_price != 0">
-                  <div class="text-h6 pb-5"><b>FastCat M19</b></div>
+                  <div class="text-h6 pb-5"><b>M/V Nathan/Sean Ferry Fastcraft</b></div>
                   <div class="text-h6">
                     {{ $route.query.to }} - {{ $route.query.from }}
                   </div>
