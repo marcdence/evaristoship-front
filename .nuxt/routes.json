@@ -1,0 +1,80 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index"
+  },
+  {
+    "name": "schedules",
+    "path": "/schedules",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\schedules\\\\index.vue",
+    "chunkName": "pages/schedules/index"
+  },
+  {
+    "name": "admin-book",
+    "path": "/admin/book",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\admin\\\\book\\\\index.vue",
+    "chunkName": "pages/admin/book/index"
+  },
+  {
+    "name": "admin-dashboard",
+    "path": "/admin/dashboard",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\admin\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/admin/dashboard/index"
+  },
+  {
+    "name": "admin-departure",
+    "path": "/admin/departure",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\admin\\\\departure\\\\index.vue",
+    "chunkName": "pages/admin/departure/index"
+  },
+  {
+    "name": "admin-return",
+    "path": "/admin/return",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\admin\\\\return\\\\index.vue",
+    "chunkName": "pages/admin/return/index"
+  },
+  {
+    "name": "client-home",
+    "path": "/client/home",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\client\\\\home\\\\index.vue",
+    "chunkName": "pages/client/home/index"
+  },
+  {
+    "name": "client-profile",
+    "path": "/client/profile",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\client\\\\profile\\\\index.vue",
+    "chunkName": "pages/client/profile/index"
+  },
+  {
+    "name": "client-profile-edit",
+    "path": "/client/profile/edit",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\client\\\\profile\\\\edit\\\\index.vue",
+    "chunkName": "pages/client/profile/edit/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\USER\\\\Documents\\\\Capstone Project\\\\evaristo-front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

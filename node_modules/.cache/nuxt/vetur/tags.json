@@ -1,0 +1,53 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "ContactContent": {
+    "description": "Auto imported from components/contact-us/ContactContent.vue"
+  },
+  "ContactUsHeroContact": {
+    "description": "Auto imported from components/contact-us/HeroContact.vue"
+  },
+  "HomeAbout": {
+    "description": "Auto imported from components/home/About.vue"
+  },
+  "HomeContent": {
+    "description": "Auto imported from components/home/Content.vue"
+  },
+  "HomeHero": {
+    "description": "Auto imported from components/home/Hero.vue"
+  },
+  "LoginForm": {
+    "description": "Auto imported from components/login/LoginForm.vue"
+  },
+  "SchedulesScheduleContainer": {
+    "description": "Auto imported from components/schedules/ScheduleContainer.vue"
+  },
+  "SignupRegistrationForm": {
+    "description": "Auto imported from components/signup/RegistrationForm.vue"
+  },
+  "AdminBookContainer": {
+    "description": "Auto imported from components/admin/book/BookContainer.vue"
+  },
+  "AdminDepartureManagement": {
+    "description": "Auto imported from components/admin/departure/DepartureManagement.vue"
+  },
+  "AdminReturnManagement": {
+    "description": "Auto imported from components/admin/return/ReturnManagement.vue"
+  },
+  "ClientProfileEditForm": {
+    "description": "Auto imported from components/client/profile/EditForm.vue"
+  },
+  "ClientProfileForm": {
+    "description": "Auto imported from components/client/profile/ProfileForm.vue"
+  },
+  "GeneralDialogConfirmation": {
+    "description": "Auto imported from components/general/Dialog/DialogConfirmation.vue"
+  }
+}

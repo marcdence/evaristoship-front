@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{760:function(n,e,t){"use strict";t.r(e);var c={components:{ScheduleContainer:t(748).default}},l=t(94),component=Object(l.a)(c,(function(){var n=this._self._c;return n("div",[n("schedule-container")],1)}),[],!1,null,null,null);e.default=component.exports}}]);
