@@ -6,7 +6,7 @@
       height="85vh"
       class="d-flex justify-start align-center pl-16"
     >
-      
+      <!-- <v-btn @click="pdfDownload">try</v-btn> -->
       <v-row>
         <v-col>
           <v-card class="pa-5 rounded-xl" width="1000" height="" elevation="10">
@@ -81,7 +81,7 @@
                       </v-menu>
                     </div>
                   </v-col>
-                  <v-col>
+                  <v-col v-if="book.ticket_type=='Round Trip'">
                     Return
                     <div class="text-h5">
                       <v-menu
@@ -150,7 +150,7 @@
                       ></v-select>
                     </div>
                   </v-col>
-                  <v-col>
+                  <!-- <v-col>
                     With Vehicle
                     <div class="text-h5">
                       <v-select
@@ -159,8 +159,8 @@
                         v-model="book.isHasVehicle"
                       ></v-select>
                     </div>
-                  </v-col>
-                  <v-col>
+                  </v-col> -->
+                  <!-- <v-col>
                     Promo Code
                     <div class="text-h5">
                       <v-text-field
@@ -168,7 +168,7 @@
                         v-model="book.promo_code"
                       ></v-text-field>
                     </div>
-                  </v-col>
+                  </v-col> -->
                 </v-row>
               </v-col>
             </v-row>
@@ -210,9 +210,21 @@ export default {
       returnMenu: false,
       departMenu: false,
       trip_selection: [
-      "Dapa",
-       "Surigao",
-       "San Jose - Dinagat",
+        "Banago",
+        "Batangas",
+        "Bredco",
+        "Bulalacao",
+        "Calapan",
+        "Caluya",
+        "Caticlan",
+        "Cebu",
+        "Dapdap",
+        "Dapitan",
+        "Dumaguette",
+        "Dumangas",
+        "ilo-ilo",
+        "Liloan",
+        "Lipata",
       ],
     };
   },
